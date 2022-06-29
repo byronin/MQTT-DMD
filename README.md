@@ -50,7 +50,7 @@
 - The project runs via the [Arduino IDE](https://www.arduino.cc/en/software "Arduino IDE"). If it is not installed, install it.
 - Install [ESP8266](https://github.com/esp8266/Arduino "ESP8266") to Arduino.
 - Install the [Pubsubclient Lib.](https://github.com/knolleary/pubsubclient "Pubsubclient Lib.") to Arduino.
-- Install the [RoninDMD.zip](- Install the RoninDMD.zip with library manager. "RoninDMD.zip") with library manager.
+- Install the [RoninDMD.zip](https://github.com/byronin/MQTT-DMD "RoninDMD.zip") with library manager.
 - You can connect with any MQTT client application. [MQTTool](https://apps.apple.com/us/app/mqttool/id1085976398 "MQTTool") application and [HiveMQ Public Broker](https://www.hivemq.com/public-mqtt-broker/ "HiveMQ Public Broker") were used in the testing phase of this project. Special thanks [@bjpetit](https://github.com/bjpetit "@bjpetit") .
 
 
