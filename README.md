@@ -8,7 +8,7 @@
 ## Sponsor
 [![](https://github.com/byronin/MQTT-DMD/blob/main/Hardware/PCBWay_logo.png)](https://www.pcbway.com/project/shareproject/P10_Display_DMD_Text_Box_with_ESP8266_MQTT_P10_Display_Wi_Fi_Controller_4e9eb7f1.html)
 #### Thanks to PCBWay for handling PCB production.
-
+<a href="https://www.pcbway.com/project/shareproject/P10_Display_DMD_Text_Box_with_ESP8266_MQTT_P10_Display_Wi_Fi_Controller_4e9eb7f1.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 ## Hardware & BOM
 ![PCBs](https://github.com/byronin/MQTT-DMD/blob/main/Hardware/images/Board1.png "PCBs")
  [![This PCB Desing with Eagle ](https://www.snapeda.com/static/img/eda/eagle.png "PCB Desing with Eagle ")](https://www.autodesk.com/products/eagle/free-download "This PCB Desing with Eagle ") 
@@ -52,6 +52,4 @@
 - Install the [Pubsubclient Lib.](https://github.com/knolleary/pubsubclient "Pubsubclient Lib.") to Arduino.
 - Install the [RoninDMD.zip](https://github.com/byronin/MQTT-DMD/blob/main/Lib%26Software/RoninDMD.zip "RoninDMD.zip") with library manager.
 - You can connect with any MQTT client application. [MQTTool](https://apps.apple.com/us/app/mqttool/id1085976398 "MQTTool") application and [HiveMQ Public Broker](https://www.hivemq.com/public-mqtt-broker/ "HiveMQ Public Broker") were used in the testing phase of this project. Special thanks [@bjpetit](https://github.com/bjpetit "@bjpetit") .
-
-
 
