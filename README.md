@@ -6,7 +6,7 @@
 - [Arduino library](https://github.com/byronin/MQTT-DMD/tree/main/Lib%26Software "Arduino library")  for using P10 Display with Mqtt.
 
 ## Sponsor
-[![](https://github.com/byronin/MQTT-DMD/blob/main/Hardware/PCBWay_logo.png)](https://www.pcbway.com/)
+[![](https://github.com/byronin/MQTT-DMD/blob/main/Hardware/PCBWay_logo.png)](https://www.pcbway.com/project/shareproject/P10_Display_DMD_Text_Box_with_ESP8266_MQTT_P10_Display_Wi_Fi_Controller_4e9eb7f1.html)
 #### Thanks to PCBWay for handling PCB production.
 
 ## Hardware & BOM
